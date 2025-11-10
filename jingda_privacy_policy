@@ -1,0 +1,60 @@
+# Privacy Policy — Jingda
+Last updated: 2025-09-28
+
+Welcome to the Jingda app for Android. 
+
+We take your privacy seriously. This policy explains what data we collect, how we use it, and your choices.
+
+- No data is sold to third parties.
+- Only the minimum data necessary to deliver core functionality is used.
+
+## Data Controller
+
+- App name: Jingda
+- Platform: Android
+
+## Scope of this policy
+
+This policy applies to Jingda Android application. 
+
+## Data we collect and why
+
+We do not collect sensitive categories of personal information (e.g., political opinions, health data) and we do not build advertising profiles.
+
+## How we use your data
+
+- Provide core functionality (location sharing, map display).
+
+## Legal bases (where applicable)
+
+- Consent: for location sharing (Driver must explicitly start sharing).
+- Contract: to provide app services you request.
+- Legitimate interests: app security, fraud prevention, and essential communications.
+
+## Third-party services and links
+
+We use the following providers to deliver core functionality. Refer to their privacy policies:
+
+- Firebase (Auth, Firestore, Cloud Messaging)
+  - https://firebase.google.com/support/privacy
+- Google Play services and Google Maps Platform
+  - https://policies.google.com/privacy
+
+These services may process data (e.g., IP address, device identifiers) required for connectivity, security, and service operations.
+
+## Data storage and retention
+
+- Driver locations: stored in RTDB while sharing is active; retention is minimal and controlled by the app logic or your administrative policy. You may stop sharing anytime.
+- Account data: retained while your account exists. You may request deletion (see “Your choices and controls”).
+- Preferences: stored locally; deletion occurs upon app data clear or uninstall.
+
+## Data sharing
+
+- Driver location is shared only with intended recipients inside the app (e.g., selected passengers) to fulfill the tracking feature.
+- We do not sell personal data.
+- We share data with infrastructure providers (Firebase/Google) strictly to deliver app functionality.
+
+## Children’s privacy
+
+This app is not directed to children under the age where parental consent is required by local law. If you believe a child has provided personal data without consent, contact us to remove it.
+
