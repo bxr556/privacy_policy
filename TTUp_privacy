@@ -1,0 +1,41 @@
+# Privacy Policy — TTUp
+Last updated: 2026-01-10
+
+Welcome to the TTUp app 
+
+We take your privacy seriously. This policy explains what data we collect, how we use it, and your choices.
+
+- No data is sold to third parties.
+- Only the minimum data necessary to deliver core functionality is used.
+
+## Data Controller
+
+- App name: TTUp
+- Platform: Android and IOS
+
+## Scope of this policy
+
+This policy applies to TTUp Android and IOS application. 
+
+## Data we collect and why
+
+We do not collect sensitive categories of personal information (e.g., political opinions, health data) and we do not build advertising profiles.
+
+## How we use your data
+
+- Provide core functionality (location sharing, map display).
+
+## Third-party services and links
+
+We use the following providers to deliver core functionality. Refer to their privacy policies:
+
+- Firebase (Auth, Firestore, Cloud Messaging)
+  - https://firebase.google.com/support/privacy
+- Google Play services
+  - https://policies.google.com/privacy
+
+These services may process data (e.g., IP address, device identifiers) required for connectivity, security, and service operations.
+
+## Children’s privacy
+
+This app is not directed to children under the age where parental consent is required by local law. If you believe a child has provided personal data without consent, contact us to remove it.
