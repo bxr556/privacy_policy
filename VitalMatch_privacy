@@ -1,0 +1,37 @@
+# Privacy Policy — VitalMatch
+Last updated: 2026-02-27
+
+Welcome to the VitalMatch app 
+
+We take your privacy seriously. This policy explains what data we collect, how we use it, and your choices.
+
+- No data is sold to third parties.
+- Only the minimum data necessary to deliver core functionality is used.
+
+## Data Controller
+
+- App name: VitalMatch
+- Platform: Android and IOS
+
+## Scope of this policy
+
+This policy applies to VitalMatch Android and IOS application. 
+
+## How we use your data
+
+- Provide core functionality (matching).
+
+## Third-party services and links
+
+We use the following providers to deliver core functionality. Refer to their privacy policies:
+
+- Firebase (Auth, Firestore, Cloud Messaging)
+  - https://firebase.google.com/support/privacy
+- Google Play services
+  - https://policies.google.com/privacy
+
+These services may process data (e.g., IP address, device identifiers) required for connectivity, security, and service operations.
+
+
+
+This app is not directed to children under the age where parental consent is required by local law. If you believe a child has provided personal data without consent, contact us to remove it.
